@@ -1,0 +1,6 @@
+name: CommandSpy
+version: 1.0
+main: com.binaryoverload.commandspy.Main
+commands:
+  commandspy:
+    description: "Allows admins to spy on users' commands"  
